@@ -1,0 +1,78 @@
+{
+    "station":
+    [
+     {
+         "name": "Radio Mirchi",
+         "imageURL": "https://liveradios.in/wp-content/uploads/RadioMirchi-logo.jpg",
+         "streamURL": "https://eu8.fastcast4u.com/proxy/clyedupq/stream"
+     },
+     {
+         "name": "Big FM 106.2",
+         "imageURL": "https://liveradios.in/wp-content/uploads/bignew1-1.jpg",
+         "streamURL": "https://listen.openstream.co/4232/audio"
+     },
+     {
+         "name": "Mirch 90’s Radio",
+         "imageURL": "https://liveradios.in/wp-content/uploads/mirchi90s.jpg",
+         "streamURL": "https://sp14.instainternet.com/8112/stream"
+     },
+     {
+         "name": "Mirchi Love",
+         "imageURL": "https://liveradios.in/wp-content/uploads/mirchilove-1.jpg",
+         "streamURL": "https://drive.uber.radio/uber/lrbollywood/icecast.audio"
+     },
+     {
+         "name": "Hindi Retro",
+         "imageURL": "https://liveradios.in/wp-content/uploads/mirchiretro.jpg",
+         "streamURL": "https://stream.zeno.fm/v2zfmxef798uv"
+     },
+     {
+         "name": "Kadak FM",
+         "imageURL": "https://liveradios.in/wp-content/uploads/kadakfm.jpg",
+         "streamURL": "blob:https://liveradios.in/78ed57c7-51c3-4f53-aa80-5d1ae2b626fb"
+     },
+     {
+         "name": "Radio Antra",
+         "imageURL": "https://liveradios.in/wp-content/uploads/Antara-Logo.jpg",
+         "streamURL": "https://stream.zeno.fm/x6ch94sse0quv"
+     },
+     {
+         "name": "Ishq 104.8",
+         "imageURL": "https://liveradios.in/wp-content/uploads/ishqfm.jpg",
+         "streamURL": "blob:https://liveradios.in/ca157fec-f64c-46da-a4a5-d4c600e46003"
+     },
+     {
+         "name": "FM 24 90.8",
+         "imageURL": "https://liveradios.in/wp-content/uploads/fm24.jpg",
+         "streamURL": "blob:https://liveradios.in/5db8adb7-899e-41ac-b314-115f57ab2318"
+     },
+     {
+         "name": "Radio Badal",
+         "imageURL": "https://liveradios.in/wp-content/uploads/radiobadal-1.jpg",
+         "streamURL": "https://stream.zeno.fm/nhrtcxg09u8uv"
+     },
+     {
+         "name": "Bolly 102.9 FM",
+         "imageURL": "https://liveradios.in/wp-content/uploads/bollyradio.jpg",
+         "streamURL": "https://ice6.securenetsystems.net/INTRADIO?type=.mp3"
+     },
+     {
+         "name": "Suno 1024",
+         "imageURL": "https://liveradios.in/wp-content/uploads/suno1024.jpg",
+         "streamURL": "https://eu8.fastcast4u.com/proxy/clyedupq/stream"
+     },
+     {
+         "name": "Mirchi Top 20",
+         "imageURL": "https://liveradios.in/wp-content/uploads/mirchitop20.jpg",
+         "streamURL": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"
+     },
+     {
+         "name": "Bombay Beats Radio",
+         "imageURL": "https://liveradios.in/wp-content/uploads/1fm.jpg",
+         "streamURL": "https://strmreg.1.fm/bombaybeats_mobile_mp3"
+     }
+     
+     
+    ]
+}
+
